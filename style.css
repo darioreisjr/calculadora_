@@ -10,7 +10,7 @@ body {
 }
 
 input {
-    color: #fff;
+    color: #d2ffff;
     padding: 17px;
     outline: none;
     font-size: 30px;
@@ -47,23 +47,23 @@ input {
 }
 
 .maincolor {
-    background: #000;
+    background: #180e10;
 }
 
 .blue {
-    background-color:#0cd0cd ;
+    background-color:#7a70f4 ;
 }
 
 .pin {
-    background-color: #cf1596;
+    background-color: #f8a0fc;
 }
 
 .gre {
-    background-color: #aad800;
+    background-color: #1bec65;
 }
 
 .pur {
-    background-color: #8c52ff;
+    background-color: #a279f4;
 }
 
 .ora {
